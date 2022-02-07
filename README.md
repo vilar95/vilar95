@@ -7,7 +7,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilar95&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-### - Pretendo qualificar-me adquirindo experiências na área para conseguir contribuir com a equipe e a empresa.
 ### - Considere-me um entusiasta em novas tecnologias e meu aprendizado é adquirido diariamente. Sou uma pessoa inteligente e consistente para aprender,me adapto à mudanças e estou pronto a enfrentar qualquer desafio!
  
 <h3> Back-end </h3>
