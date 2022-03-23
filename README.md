@@ -7,7 +7,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilar95&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-### - Considere-me um entusiasta em novas tecnologias e meu aprendizado é adquirido diariamente. Sou uma pessoa inteligente e consistente para aprender,me adapto à mudanças e estou pronto a enfrentar qualquer desafio!
+### - Considere-me um entusiasta em novas tecnologias e meu aprendizado é adquirido diariamente. Sou uma pessoa inteligente e consistente para aprender, me adapto à mudanças e estou pronto a enfrentar qualquer desafio!
  
 <h3> Linguagens </h3>
 <div>
