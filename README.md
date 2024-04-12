@@ -25,7 +25,7 @@
   - <img align="center" alt="SQL" height="30" width="100" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
   - SQL Server
 </div>
-
+<h3> CONTATO </h3>  
 <div>  
   <a href="https://api.whatsapp.com/send?phone=551195454705" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_black"></a>
   <a href="mailto:e.vilar95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
