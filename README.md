@@ -1,5 +1,5 @@
 # Oi, eu sou Eduardo Vilar!
-## - Área de Desenvolvimento de Softwares .NET | C#.
+## - Estudante na área de Desenvolvimento de Softwares 
 
 <div align="center">
   <a href="https://github.com/vilar95">
@@ -7,7 +7,6 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilar95&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-### - Considere-me um entusiasta em novas tecnologias e meu aprendizado é adquirido diariamente. Sou uma pessoa inteligente e consistente para aprender, me adapto à mudanças e estou pronto a enfrentar qualquer desafio!
  
 <h3> Linguagens </h3>
 <div>
@@ -26,10 +25,6 @@
   - <img align="center" alt="SQL" height="30" width="100" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
   - SQL Server
 </div>
-  
-### - Otimista, organizado, responsável, íntegro.
-
-### - Então, se leu até aqui, sinta-se à vontade para me chamar!
 
 <div>  
   <a href="https://api.whatsapp.com/send?phone=551195454705" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_black"></a>
