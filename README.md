@@ -1,5 +1,5 @@
 # Oi, eu sou Eduardo Vilar!
-## - Estudante na área de Desenvolvimento de Softwares 
+## - Estudante na área de Desenvolvimento mobile
 
 <div align="center">
   <a href="https://github.com/vilar95">
@@ -8,7 +8,6 @@
     
 </div>
 
- 
 <h3> Linguagens </h3>
 <div>
    <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -19,13 +18,6 @@
  - <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<h3> IDE </h3>  
-<div>
- <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
- - <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
-  - <img align="center" alt="SQL" height="30" width="100" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
-  - SQL Server
-</div>
 <h3> CONTATO </h3>  
 <div>  
   <a href="https://api.whatsapp.com/send?phone=551195454705" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_black"></a>
