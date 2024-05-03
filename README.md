@@ -1,8 +1,8 @@
 # Oi, eu sou Eduardo Vilar!
 
-<div align="center">
+<div>
   <a href="https://github.com/vilar95">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilar95&layout=compact&langs_count=16&theme=github_dark"/>
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilar95&layout=compact&langs_count=16&theme=github_dark"/>
     
 </div>
 
