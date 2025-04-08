@@ -11,9 +11,6 @@
   </div>
     
 </div>
-
-<h3> Linguagens </h3>
-
 <h3> CONTATO </h3>  
 <div>  
   <a href="https://api.whatsapp.com/send?phone=551195454705" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_black"></a>
